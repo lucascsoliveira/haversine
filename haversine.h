@@ -1,5 +1,5 @@
-#ifndef RDDF_HAVERSINE_H
-#define RDDF_HAVERSINE_H
+#ifndef _HAVERSINE_H_
+#define _HAVERSINE_H_
 
 #define EARTH_RADIUS_KM 6371.0
 
